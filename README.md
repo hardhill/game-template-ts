@@ -1,4 +1,4 @@
-# game4-ts
+# template game phaser typescript vue3
 
 ## Project setup
 ```

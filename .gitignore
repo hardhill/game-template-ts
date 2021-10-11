@@ -1,0 +1,8 @@
+/node_modules
+/dist
+/.parcel-catch
+.parcel-cache/data.mdb
+.parcel-cache/687f8a990313aa2f.txt
+.parcel-cache/lock.mdb
+.parcel-cache/d1613fb45496a7c9.txt
+.parcel-cache/1323c103a38ea1de.txt
